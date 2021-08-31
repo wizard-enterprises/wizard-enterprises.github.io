@@ -1,3 +1,3 @@
-# Headline
+# Wizard Enterprises
 
-> An awesome project.
+> A wizardly blog like you've never seen.
