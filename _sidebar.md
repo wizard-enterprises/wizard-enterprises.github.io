@@ -1,2 +1,2 @@
-- [home](/) <br> 
+- [home](/)
 - [test page](/test.md)
