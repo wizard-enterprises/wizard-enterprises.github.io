@@ -1,2 +1,2 @@
-- [home](/)
-- [test page](/test.md)
+- [Home](/)
+- [Test Page](/test.md)
